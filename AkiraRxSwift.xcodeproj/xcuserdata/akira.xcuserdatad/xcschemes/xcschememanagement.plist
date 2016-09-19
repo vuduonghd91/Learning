@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AkiraRxSwift.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>E9A93C8E1D8FD0F700EB4EA7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9A93CA21D8FD0F700EB4EA7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E9A93CAD1D8FD0F700EB4EA7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
